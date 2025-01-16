@@ -1,6 +1,7 @@
 um die demo zu starten einfach folgendes eingeben
 
 ```shell
+pip install -r requirements.txt
 python flood_demonstration.py
 ```
 
